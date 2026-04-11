@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+void main()
+{
+int a;    
+        printf("enter the number \n");
+scanf("%d",&a);
+if(a%2==0);
+{
+    printf("the even number is");
+}
+}
